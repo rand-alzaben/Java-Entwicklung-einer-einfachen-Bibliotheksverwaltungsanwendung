@@ -17,11 +17,10 @@ Dies ist eine einfache Java-Anwendung zur Verwaltung von Bibliotheksbüchern. Si
 
   
 
-2. Anwendung starten
-
-
+2. **Anwendung starten**
 java Main
-3. Beispielhafte Nutzung über das Menü
+
+3. **Beispielhafte Nutzung über das Menü**
 Die Konsole zeigt ein Menü, z. B.:
 
 1. Add Book  
